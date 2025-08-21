@@ -1,6 +1,6 @@
 # Text Rain Simulator
 
-Aplikasi sederhana untuk simulasi hujan teks dan gambar.  
+Web sederhana untuk simulasi hujan teks dan gambar.  
 Dibuat dengan fokus pada tampilan gelap dan kontrol yang mudah.
 
 ## Fitur
